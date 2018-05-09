@@ -1,0 +1,23 @@
+[33mcommit 95b61935ba77c8613c8722f890b0083c6134b859[m
+Author: Yunding Li <yunding.li@getcruise.com>
+Date:   Wed May 9 11:11:38 2018 -0700
+
+    Add baz
+
+[33mcommit b661219cf7bbcd7b451114168fc6d87e1452ec3c[m
+Author: Yunding Li <yunding.li@getcruise.com>
+Date:   Wed May 9 11:08:19 2018 -0700
+
+    Add content to index.html
+
+[33mcommit c9be795d22ad8870d12184c55c678a78603a864e[m
+Author: Yunding Li <yunding.li@getcruise.com>
+Date:   Wed May 9 11:05:53 2018 -0700
+
+    Add bar
+
+[33mcommit d555993a83dabee2798962126c11aadddbc6ed5e[m
+Author: Yunding Li <yunding.li@getcruise.com>
+Date:   Wed May 9 10:54:03 2018 -0700
+
+    Initialize repository
